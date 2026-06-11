@@ -132,6 +132,7 @@ struct DashboardView: View {
             }
 
             Button {
+                NSApp.activate(ignoringOtherApps: true)
                 openSettings()
             } label: {
                 Label("Settings", systemImage: "gearshape")
