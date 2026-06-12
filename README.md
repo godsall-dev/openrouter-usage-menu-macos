@@ -4,6 +4,8 @@ OpenRouter Monitor is a native macOS menu bar app for keeping an eye on OpenRout
 
 It is built for developers, AI power users, and small teams using OpenRouter for coding agents, prototypes, production apps, or personal AI workflows. The app shows your current usage at a glance, tracks budget thresholds, and surfaces model-level activity when your API key has access to OpenRouter management analytics.
 
+![OpenRouter Monitor dashboard](monitor-1.png)
+
 ## Features
 
 - macOS menu bar item with a compact usage readout.
